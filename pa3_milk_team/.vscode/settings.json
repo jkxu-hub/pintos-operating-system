@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "page.h": "c",
+        "frame.h": "c",
+        "file.h": "c"
+    }
+}

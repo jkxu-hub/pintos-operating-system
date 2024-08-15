@@ -1,0 +1,23 @@
+{
+  "editor.formatOnSave": true,
+  "terminal.integrated.detectLocale": "off",
+  "files.associations": {
+    "hash_map": "c",
+    "hash_set": "c",
+    "algorithm": "c",
+    "syscall-nr.h": "c",
+    "vaddr.h": "c",
+    "malloc.h": "c",
+    "pagedir.h": "c",
+    "interrupt.h": "c",
+    "stdio.h": "c",
+<<<<<<< HEAD
+    "list.h": "c",
+    "cstdlib": "c",
+    "*.inc": "c"
+=======
+    "*.inc": "c",
+    "ctype.h": "c"
+>>>>>>> jude_phase3
+  },
+}
